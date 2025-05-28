@@ -3,7 +3,7 @@ const http = require('http');
 
 // Configuration
 const {
-  TARGET_SERVER = 'ws://ipws:port',
+  TARGET_SERVER = 'ws://:7878',
   PORT = 8080 //не меняй
 } = process.env;
 
