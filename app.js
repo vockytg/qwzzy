@@ -3,7 +3,7 @@ const http = require('http');
 
 // Configuration
 const {
-  TARGET_SERVER = 'ws://:7878',
+  TARGET_SERVER = 'ws://157.180.72.48:7878',
   PORT = 8080 //не меняй
 } = process.env;
 
